@@ -11,3 +11,18 @@
 # 2, npm install next-auth@beta
 
 # 3, npx auth secret
+
+`npm install next-sanity@canary`
+`npm install sanity-plugin-markdown`
+`npx sanity@latest schema extract --path=./sanity/extract.json`
+
+```{
+"path": "./src/\*_/_.{ts,tsx,js,jsx}",
+"schema": "./sanity/extract.json",
+"generates": "./sanity/types.ts"
+}
+```
+
+#### https://github.com/adrianhajdin/yc_directory/blob/main/sanity/lib/queries.ts
+
+`npx sanity@latest typegen generate`
