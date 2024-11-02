@@ -26,3 +26,5 @@
 #### https://github.com/adrianhajdin/yc_directory/blob/main/sanity/lib/queries.ts
 
 `npx sanity@latest typegen generate`
+
+`npm i server-only`
