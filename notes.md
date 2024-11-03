@@ -28,3 +28,5 @@
 `npx sanity@latest typegen generate`
 
 `npm i server-only`
+`npm i markdown-it`
+`npx shadcn@latest add skeleton`
