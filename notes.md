@@ -33,3 +33,6 @@
 `npx shadcn@latest add input textarea toast`
 `npm i @uiw/react-md-editor`
 `npm i slugify`
+`npx shadcn@latest add skeleton`
+
+`npx shadcn@latest add avatar`
